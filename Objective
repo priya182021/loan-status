@@ -1,0 +1,7 @@
+Loan Status Prediction – Python, Data Cleaning, EDA and Machine Learning 
+•	Problem Statement: A bank’s profit or a loss depends to a large extent on loans i.e. whether the customers are paying back the loan or defaulting. By predicting the loan defaulters, the bank can reduce its Non-performing Assets. This makes the study of this phenomenon very important.
+
+•	Working: Descriptive statistics for numerical and categorical data, Treating missing values and outliers, Univariate and bivariate analysis, Resampling imbalanced target data, ML algorithm. 
+ 
+•	Outcomes: Since we have used Gradient boost Classifier Algorithm the system returns very accurate results. This system can be used for detection of clients who are eligible for approval of loan.
+ 
